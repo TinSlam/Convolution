@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Convolution</string>
+    <string name="continuous">Continuous</string>
+    <string name="discrete">Discrete</string>
+    <string name="input_function">Input function</string>
+    <string name="response_function">Impulse response function</string>
+    <string name="domain_start">Domain start</string>
+    <string name="domain_end">Domain end</string>
+    <string name="range_start">Range start</string>
+    <string name="range_end">Range end</string>
+    <string name="confirm">Confirm</string>
+    <string name="domain">Domain</string>
+    <string name="range">Range</string>
+    <string name="to">To</string>
+</resources>
